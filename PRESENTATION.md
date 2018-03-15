@@ -1,3 +1,5 @@
+<!-- $theme: default -->
+
 <!-- $size: 4:3 -->
 
 
@@ -69,3 +71,38 @@ Version control is a system that records changes to a file or set of files over 
 ---
 
 # Git is distributed
+
+- Every *clone* of a git repo is exactly identical to the original one
+- Allows for many different workflows
+
+---
+
+# Some popular workflows
+
+---
+
+# Subversion style
+### (don't use this)
+
+![](https://git-scm.com/images/about/workflow-a@2x.png)
+
+---
+
+# Integration Manager
+### (aka what you do on GitHub)
+
+![](https://git-scm.com/images/about/workflow-b@2x.png)
+
+---
+
+# Dictator and Lieutenants
+### (how it's done with the Linux kernel)
+
+![](https://git-scm.com/images/about/workflow-c@2x.png)
+
+---
+
+# All of this is possible thanks to git's flexibility.
+
+---
+
