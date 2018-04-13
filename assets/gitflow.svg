@@ -1,87 +1,285 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="342.57mm" height="113.38mm" version="1.1" viewBox="0 0 342.5737 113.3812" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-<defs>
-<marker id="f" overflow="visible" orient="auto">
-<path transform="scale(.4)" d="m5.77 0-8.65 5v-10z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
-</marker>
-<marker id="g" overflow="visible" orient="auto">
-<path transform="scale(.4)" d="m5.77 0-8.65 5v-10z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
-</marker>
-<marker id="h" overflow="visible" orient="auto">
-<path transform="scale(.4)" d="m5.77 0-8.65 5v-10z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
-</marker>
-<marker id="i" overflow="visible" orient="auto">
-<path transform="scale(.4)" d="m5.77 0-8.65 5v-10z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
-</marker>
-<marker id="j" overflow="visible" orient="auto">
-<path transform="scale(.4)" d="m5.77 0-8.65 5v-10z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
-</marker>
-<marker id="a" overflow="visible" orient="auto">
-<path transform="scale(.4)" d="m5.77 0-8.65 5v-10z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
-</marker>
-<marker id="b" overflow="visible" orient="auto">
-<path transform="scale(.4)" d="m5.77 0-8.65 5v-10z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
-</marker>
-<marker id="c" overflow="visible" orient="auto">
-<path transform="scale(.4)" d="m5.77 0-8.65 5v-10z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
-</marker>
-<marker id="d" overflow="visible" orient="auto">
-<path transform="scale(.4)" d="m5.77 0-8.65 5v-10z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
-</marker>
-<marker id="e" overflow="visible" orient="auto">
-<path transform="scale(.4)" d="m5.77 0-8.65 5v-10z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
-</marker>
-<marker id="k" overflow="visible" orient="auto">
-<path transform="scale(.4)" d="m5.77 0-8.65 5v-10z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
-</marker>
-</defs>
-<metadata>
-<rdf:RDF>
-<cc:Work rdf:about="">
-<dc:format>image/svg+xml</dc:format>
-<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-<dc:title/>
-</cc:Work>
-</rdf:RDF>
-</metadata>
-<g transform="translate(72.111 156.55)">
-<g transform="translate(-72.59 -157.15)">
-<circle cx="158.83" cy="67.157" r="10.186" fill="#ffb765" stroke="#dcdcdc" stroke-linecap="square" stroke-linejoin="round" stroke-width=".79373" style="paint-order:fill markers stroke"/>
-<path d="m42.813 30.909h18.912" fill="none" marker-end="url(#k)" stroke="#000" stroke-width=".79375"/>
-<rect x=".87654" y="20.723" width="41.54" height="20.373" rx="2.5962" ry="2.5466" fill="#a4ff9f" stroke="#dcdcdc" stroke-linecap="square" stroke-linejoin="round" stroke-width=".79373" style="paint-order:fill markers stroke"/>
-<text x="8.1567278" y="33.559452" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="8.1567278" y="33.559452" font-family="'Anonymice Nerd Font'" font-size="8.4667px" stroke-width=".26458">master</tspan></text>
-<circle cx="327.77" cy="30.909" r="10.186" fill="#a4ff9f" stroke="#dcdcdc" stroke-linecap="square" stroke-linejoin="round" stroke-width=".79373" style="paint-order:fill markers stroke"/>
-<g transform="translate(-62.536 22.429)">
-<path d="m124.86-21.425c-1.4658 0-2.6458 1.18-2.6458 2.6458v7.8579c0 1.4658 1.18 2.6458 2.6458 2.6458h5.8524l2.9652-0.15503 3.4241 5.9304 3.4236-5.9304 2.9657 0.15503h5.8518c1.4658 0 2.6458-1.18 2.6458-2.6458v-7.8579c0-1.4658-1.18-2.6458-2.6458-2.6458z" fill="#f5ffb8" stroke="#7f7f7f" stroke-linecap="square" stroke-linejoin="round" stroke-width=".79375" style="paint-order:fill markers stroke"/>
-<text x="128.67798" y="-12.057444" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="128.67798" y="-12.057444" font-family="'Anonymice Nerd Font'" font-size="8.4667px" stroke-width=".26458">v0.1</tspan></text>
-</g>
-<rect x=".87654" y="56.971" width="41.54" height="20.373" rx="2.5962" ry="2.5466" fill="#ffb765" stroke="#dcdcdc" stroke-linecap="square" stroke-linejoin="round" stroke-width=".79373" style="paint-order:fill markers stroke"/>
-<text x="15.029693" y="69.807396" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="15.029693" y="69.807396" font-family="'Anonymice Nerd Font'" font-size="8.4667px" stroke-width=".26458">dev</tspan></text>
-<circle cx="74.563" cy="30.909" r="10.186" fill="#a4ff9f" stroke="#dcdcdc" stroke-linecap="square" stroke-linejoin="round" stroke-width=".79373" style="paint-order:fill markers stroke"/>
-<path d="m82.029 37.614 24.589 21.608" fill="none" marker-end="url(#e)" stroke="#000" stroke-width=".79375"/>
-<circle cx="116.9" cy="67.157" r="10.186" fill="#ffb765" stroke="#dcdcdc" stroke-linecap="square" stroke-linejoin="round" stroke-width=".79373" style="paint-order:fill markers stroke"/>
-<path d="m42.813 67.157h61.246" fill="none" marker-end="url(#d)" stroke="#000" stroke-width=".79375"/>
-<path d="m127.08 67.157h18.912" fill="none" marker-end="url(#a)" stroke="#000" stroke-width=".79375"/>
-<circle cx="201.17" cy="67.157" r="10.186" fill="#ffb765" stroke="#dcdcdc" stroke-linecap="square" stroke-linejoin="round" stroke-width=".79373" style="paint-order:fill markers stroke"/>
-<path d="m169.42 67.157h18.912" fill="none" marker-end="url(#c)" stroke="#000" stroke-width=".79375"/>
-<rect x=".87654" y="93.219" width="41.54" height="20.373" rx="2.5962" ry="2.5466" fill="#e091ff" stroke="#dcdcdc" stroke-linecap="square" stroke-linejoin="round" stroke-width=".79373" style="paint-order:fill markers stroke"/>
-<text x="5.424078" y="106.10081" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="5.424078" y="106.10081" font-family="'Anonymice Nerd Font'" font-size="8.4667px" stroke-width=".26458">feature</tspan></text>
-<path d="m166.3 73.862 24.589 21.608" fill="none" marker-end="url(#j)" stroke="#000" stroke-width=".79375"/>
-<circle cx="201.17" cy="103.41" r="10.186" fill="#e091ff" stroke="#dcdcdc" stroke-linecap="square" stroke-linejoin="round" stroke-width=".79373" style="paint-order:fill markers stroke"/>
-<path d="m42.813 103.41h145.51" fill="none" marker-end="url(#b)" stroke="#000" stroke-width=".79375"/>
-<circle cx="243.1" cy="103.41" r="10.186" fill="#e091ff" stroke="#dcdcdc" stroke-linecap="square" stroke-linejoin="round" stroke-width=".79373" style="paint-order:fill markers stroke"/>
-<path d="m211.35 103.41h18.912" fill="none" marker-end="url(#a)" stroke="#000" stroke-width=".79375"/>
-<path d="m211.35 67.157h61.245" fill="none" marker-end="url(#h)" stroke="#000" stroke-width=".79375"/>
-<circle transform="scale(-1,1)" cx="-285.44" cy="67.157" r="10.186" fill="#ffb765" stroke="#dcdcdc" stroke-linecap="square" stroke-linejoin="round" stroke-width=".79373" style="paint-order:fill markers stroke"/>
-<path d="m251.42 97.187 24.589-21.608" fill="none" marker-end="url(#f)" stroke="#000" stroke-width=".79375"/>
-<circle transform="scale(-1,1)" cx="-243.1" cy="103.41" r="10.186" fill="#e091ff" stroke="#dcdcdc" stroke-linecap="square" stroke-linejoin="round" stroke-width=".79373" style="paint-order:fill markers stroke"/>
-<path d="m85.146 30.909h229.78" fill="none" marker-end="url(#g)" stroke="#000" stroke-width=".79375"/>
-<path d="m293.75 60.939 24.589-21.608" fill="none" marker-end="url(#i)" stroke="#000" stroke-width=".79375"/>
-<g transform="translate(190.67 22.429)">
-<path d="m124.86-21.425c-1.4658 0-2.6458 1.18-2.6458 2.6458v7.8579c0 1.4658 1.18 2.6458 2.6458 2.6458h5.8524l2.9652-0.15503 3.4241 5.9304 3.4236-5.9304 2.9657 0.15503h5.8518c1.4658 0 2.6458-1.18 2.6458-2.6458v-7.8579c0-1.4658-1.18-2.6458-2.6458-2.6458z" fill="#f5ffb8" stroke="#7f7f7f" stroke-linecap="square" stroke-linejoin="round" stroke-width=".79375" style="paint-order:fill markers stroke"/>
-<text x="128.67798" y="-12.057444" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="128.67798" y="-12.057444" font-family="'Anonymice Nerd Font'" font-size="8.4667px" stroke-width=".26458">v0.2</tspan></text>
-</g>
-</g>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="274.36978mm"
+   height="93.665741mm"
+   version="1.1"
+   viewBox="0 0 274.37274 93.666735"
+   id="svg119"
+   sodipodi:docname="gitflow.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1389"
+     id="namedview121"
+     showgrid="false"
+     inkscape:zoom="1.0411254"
+     inkscape:cx="230.95809"
+     inkscape:cy="111.83895"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg119" />
+  <defs
+     id="defs35">
+    <marker
+       id="f"
+       overflow="visible"
+       orient="auto"
+       style="overflow:visible">
+      <path
+         transform="scale(0.4)"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt" />
+    </marker>
+    <marker
+       id="g"
+       overflow="visible"
+       orient="auto"
+       style="overflow:visible">
+      <path
+         transform="scale(0.4)"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path5"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt" />
+    </marker>
+    <marker
+       id="h"
+       overflow="visible"
+       orient="auto"
+       style="overflow:visible">
+      <path
+         transform="scale(0.4)"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path8"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt" />
+    </marker>
+    <marker
+       id="i"
+       overflow="visible"
+       orient="auto"
+       style="overflow:visible">
+      <path
+         transform="scale(0.4)"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path11"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt" />
+    </marker>
+    <marker
+       id="j"
+       overflow="visible"
+       orient="auto"
+       style="overflow:visible">
+      <path
+         transform="scale(0.4)"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path14"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt" />
+    </marker>
+    <marker
+       id="a"
+       overflow="visible"
+       orient="auto"
+       style="overflow:visible">
+      <path
+         transform="scale(0.4)"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path17"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt" />
+    </marker>
+    <marker
+       id="b"
+       overflow="visible"
+       orient="auto"
+       style="overflow:visible">
+      <path
+         transform="scale(0.4)"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path20"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt" />
+    </marker>
+    <marker
+       id="c"
+       overflow="visible"
+       orient="auto"
+       style="overflow:visible">
+      <path
+         transform="scale(0.4)"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path23"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt" />
+    </marker>
+    <marker
+       id="d"
+       overflow="visible"
+       orient="auto"
+       style="overflow:visible">
+      <path
+         transform="scale(0.4)"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path26"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt" />
+    </marker>
+    <marker
+       id="e"
+       overflow="visible"
+       orient="auto"
+       style="overflow:visible">
+      <path
+         transform="scale(0.4)"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path29"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt" />
+    </marker>
+    <marker
+       id="k"
+       overflow="visible"
+       orient="auto"
+       style="overflow:visible">
+      <path
+         transform="scale(0.4)"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path32"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata37">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <circle
+     cx="94.849854"
+     cy="46.830864"
+     r="10.186"
+     style="fill:#ffb765;stroke:#dcdcdc;stroke-width:0.79373002;stroke-linecap:square;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="circle39" />
+  <circle
+     cx="263.78986"
+     cy="10.582865"
+     r="10.186"
+     style="fill:#a4ff9f;stroke:#dcdcdc;stroke-width:0.79373002;stroke-linecap:square;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="circle49" />
+  <circle
+     cx="10.582865"
+     cy="10.582865"
+     r="10.186"
+     style="fill:#a4ff9f;stroke:#dcdcdc;stroke-width:0.79373002;stroke-linecap:square;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="circle65" />
+  <path
+     d="m 18.048858,17.287865 24.589,21.608"
+     id="path67"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.79374999;marker-end:url(#e)" />
+  <circle
+     cx="52.919872"
+     cy="46.830864"
+     r="10.186"
+     style="fill:#ffb765;stroke:#dcdcdc;stroke-width:0.79373002;stroke-linecap:square;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="circle69" />
+  <path
+     d="m 63.099858,46.830865 h 18.912"
+     id="path73"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.79374999;marker-end:url(#a)" />
+  <circle
+     cx="137.18985"
+     cy="46.830864"
+     r="10.186"
+     style="fill:#ffb765;stroke:#dcdcdc;stroke-width:0.79373002;stroke-linecap:square;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="circle75" />
+  <path
+     d="m 105.43986,46.830865 h 18.912"
+     id="path77"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.79374999;marker-end:url(#c)" />
+  <path
+     d="m 102.31986,53.535865 24.589,21.608"
+     id="path85"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.79374999;marker-end:url(#j)" />
+  <circle
+     cx="137.18985"
+     cy="83.083878"
+     r="10.186"
+     style="fill:#e091ff;stroke:#dcdcdc;stroke-width:0.79373002;stroke-linecap:square;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="circle87" />
+  <circle
+     cx="179.11986"
+     cy="83.083878"
+     r="10.186"
+     style="fill:#e091ff;stroke:#dcdcdc;stroke-width:0.79373002;stroke-linecap:square;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="circle91" />
+  <path
+     d="m 147.36986,83.083865 h 18.912"
+     id="path93"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.79374999;marker-end:url(#a)" />
+  <path
+     d="m 147.36986,46.830865 h 61.245"
+     id="path95"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.79374999;marker-end:url(#h)" />
+  <circle
+     transform="scale(-1,1)"
+     cx="-221.45985"
+     cy="46.830864"
+     r="10.186"
+     style="fill:#ffb765;stroke:#dcdcdc;stroke-width:0.79373002;stroke-linecap:square;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="circle97" />
+  <path
+     d="m 187.43986,76.860865 24.589,-21.608"
+     id="path99"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.79374999;marker-end:url(#f)" />
+  <circle
+     transform="scale(-1,1)"
+     cx="-179.11986"
+     cy="83.083878"
+     r="10.186"
+     style="fill:#e091ff;stroke:#dcdcdc;stroke-width:0.79373002;stroke-linecap:square;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="circle101" />
+  <path
+     d="M 21.165858,10.582865 H 250.94586"
+     id="path103"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.79374999;marker-end:url(#g)" />
+  <path
+     d="m 229.76986,40.612865 24.589,-21.608"
+     id="path105"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.79374999;marker-end:url(#i)" />
 </svg>
-

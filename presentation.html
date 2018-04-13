@@ -314,11 +314,11 @@ You have to implement two modules in C++, respectively `cpu.cpp` and `ram.cpp`
 
 In Linux you can get info about the usage of the cpu by reading the `/proc/stat` file:
 
-- The first row contains info about the overall CPU usage (you won't need this)
-- The following rows contain information about the single CPU cores/threads (you WILL need these)
+- The first row contains info about the total CPU usage (you won't need this)
+- The following rows contain info about the single CPU cores/threads (you WILL need these)
   - Each of these rows looks something like this:
   - `cpu0 443724 891 185672 1335561 269 3185 2029 0 0 0`
-  - The sum of the first three values indicates the _work jiffies_, while the sum of all of the values indicates the _total jiffies_
+  - The sum of the first three values indicates the _work jiffies_, while the sum of all of the values indicates the _total jiffies_.
   - Your Cpu class should remember two set of these jiffies, let's call them `work_jiffies_0`, `work_jiffies_1`, `total_jiffies_0` and `total_jiffies_1`. You can initialize all four to 0 upon creation of an object.
   - Each time you calculate the total load of the CPU core in percentage, you should store the values at time 1 into the values of time 0, fetch the new values for time 1 and do the following:
 
@@ -349,7 +349,19 @@ I have provided you with a `vector<string> split(string s, char delimiter)` func
 
 # Interact using git
 
-Once you have made a change that is a milestone (created a class or a method, fixed a bug...), stage it, commit it and maybe even push it.
+Once you have made a change that is a **milestone** (created a class or a method, fixed a bug...), stage it, commit it and maybe even push it.
+
+It's important to at least stage and commit frequently, to make sure that if anything goes wrong you can have a better understanding of the changes you made, so that you can idenify what causes bugs and problems a lot faster.
+
+---
+
+# Interact using git
+
+#### Pull any latest change
+
+```bash
+git pull
+```
 
 #### Staging a file
 
@@ -369,8 +381,6 @@ git commit -m "message"
 #### Pushing commits
 
 ```bash
-# if you're not on par with the remote, you won't be able to push any new commits
-git pull
 git push
 ```
 
@@ -388,9 +398,48 @@ This is not a programming class nor an exam! You can collaborate and help each o
 
 ---
 
+# Debriefing
+
+- How did it go?
+- Did you understand how git can be useful?
+- Was it difficult?
+- What would you change?
+
+---
+
+class: center
+
+# Some more advanced git features
+
+---
+
+## The _Gitflow_
+
+<img src="assets/gitflowatlassian.svg" style="height: 250px; margin-right: 25px; float: left;" />
+
+- `master` branch contains **stable** releases
+- Separate `dev` branch as an integration branch for _new features_
+- Each new feature should have **its own branch** that's... branched off of `dev`
+- Once a feature is complete, it gets _merged_ back to `dev`
+- Once `dev` has enough features for a release, it gets branched onto a new `release` branch (not master!)
+- The `release` branch **should not contain any new features**, only bug fixes
+- Once the release is ready, it gets merged into both `master` and `dev`
+- In case a production release needs some fixes, `master` is branched in a new `hotfix` branch, and the fix is made
+- When the fix is ready, it gets merged into both `master` and `dev`
+
+---
+
 
 
 ---
+
+# <img src="https://avatars3.githubusercontent.com/u/1358527?s=460&v=4" style="border-radius: 15px; border: 3px solid #cccccc; width: 100px; vertical-align: -35px" />  Something about me
+
+- GitHub: <https://GitHub.com/GabMus>
+- YouTube: <https://YouTube.com/TechPillsNet>
+- Website: <https://TechPills.technology>
+- Twitter: <https://Twitter.com/GabMus207>
+
 
     </textarea>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js">
