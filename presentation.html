@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Title</title>
+    <title>Intro to git - Gabriele Musco</title>
     <meta charset="utf-8">
     <style>
       @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
@@ -400,10 +400,10 @@ This is not a programming class nor an exam! You can collaborate and help each o
 
 # Debriefing
 
-- How did it go?
+- How was this little test?
 - Did you understand how git can be useful?
-- Was it difficult?
-- What would you change?
+- Was it difficult to use git?
+- From this little test, do you think a version control system will benefit your work?
 
 ---
 
@@ -429,7 +429,127 @@ class: center
 
 ---
 
+# Branching
 
+<img src="https://pbs.twimg.com/media/CxB9XosXEAAiEnJ.jpg" style="height: 200px" />
+
+Branching is the operation of "copying" your working repository away from another one. It means working on a separate area of the repository that doesn't affect the original branch it's coming from.
+
+This is useful when you have to work on a new feature that could potentially or temporarely break the whole project.
+
+As we've seen in the Gitflow, it's frequently used to separate the repository in different logic areas based on the release cycle.
+
+---
+
+# How to do branching
+
+#### Create a new branch from the current one
+
+```bash
+git checkout -b newbranchname
+```
+
+#### Move to a different branch
+
+```bash
+git checkout branchname
+```
+
+#### Delete a branch (and delete it remotely as well)
+
+```bash
+git branch -d branchname
+git push origin :branchname
+```
+
+#### Merge one branch into another
+
+```bash
+git checkout branchyouwanttomergeto
+git merge branchyouwanttomergefrom
+# and then maybe delete the last branch
+```
+
+---
+
+# Forks and Pull Requests
+
+<img src="http://ericsteinborn.com/github-for-cats/img/hardcore-forking.gif" style="width: 300px; float: left; margin-right: 15px" />
+
+If you want to contribute to a public repository you don't have access to, this is the way to go.
+
+A Fork (in the GitHub and similar platforms contexts) is basically a _server side clone_ of a repository.
+
+If you Fork `GabMus/verysimplesystemmonitor` you end up with a new repository called `YourName/verysimplesystemmonitor`.
+
+This repository is yours and you can do whatever you want with it (as long as you respect the original license).
+
+You can clone your new fork (just as you did), and if you want to contribute the changes you made back to the original project, you can do that by making a Pull Request. It works similarly to a merge, but between two branches in different repositories.
+
+---
+
+# Licenses
+
+Choosing a license for your projects is as important as writing the code for it.
+
+Without a license, your work is by default subject to the copyright laws, this means that just by publishing it you reserve any right on it.
+
+This means that nobody can modify, redistribute or alter your content, and this is bad.
+
+It's a good idea to license most (if not all) of the projects you make under an open source license, so that anyone will be able to benefit from your work in the future.
+
+GitHub has put up a website to help you with the difficult task of choosing a license, just visit <https://choosealicense.com/>.
+
+_I personally suggest GPLv3 because it implies that every change anyone makes should be distributed under the same license._
+
+---
+
+class: center
+
+# Oh, my code is bad!
+
+# Nobody will need it!
+
+# I will be judged by the open source gods because my code isn't perfect!
+
+---
+
+class: center
+
+# No.
+
+---
+
+# Release everything you ever create
+
+As computer science students you will work on a lot of different projects. Most of the time these projects never see the light of day, even if the ideas behind them were good.
+
+One just loses interest, or maybe the project in itself is not that original or similar to something that already exists.
+
+## This is not an excuse not to release it
+
+Even if your project is bad, incomplete or useless, put it up on GitHub. If you ever need something similar to what you did in that project, or if one of your friends has stumbled upon a problem you already faced, you can just look it up very easily from your pulbic git repositories.
+
+A GitHub account can always be a useful source of future references even for just yourself.
+
+---
+
+# Git isn't just for apps and software projects
+
+- You can use git for many different scenarios:
+  - If you do graphics and want to track different versions of your project
+    <img src="https://www.designquote.net/images/newfinal.jpg" style="height: 150px" />
+  - To store configuration files for your shell/text editor/other program
+  - To host a website (example: <https://openrazer.github.io/>)
+  - To do things I didn't think about when writing this presentation
+
+---
+
+class: center
+
+# Go out there and spread your knowledge
+
+## Thank you
 
 ---
 
